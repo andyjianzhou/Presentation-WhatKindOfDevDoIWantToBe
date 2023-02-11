@@ -1,0 +1,12 @@
+.pet-form {
+  border: 3px solid #ff00b8;
+  border-radius: 9px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.pet-form span {
+  justify-content: left;
+  display: flex;
+}
